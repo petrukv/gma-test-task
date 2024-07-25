@@ -8,11 +8,11 @@ git clone https://github.com/petrukv/gma-test-task.git
 
 2. Create and Configure the .env File
 Here's an example of what your .env file should look like:
-DB_NAME=gma
-DB_USER=postgres
-DB_PASSWORD=password
-DB_HOST=db
-DB_PORT=5432
+#DB_NAME=gma
+#DB_USER=postgres
+#DB_PASSWORD=password
+#DB_HOST=db
+#DB_PORT=5432
 
 3. Build and Run the Docker Containers
 Use Docker Compose to build and run the containers:
